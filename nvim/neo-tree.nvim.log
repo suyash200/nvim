@@ -1,0 +1,265 @@
+[INFO  Tue Jul  9 09:01:40 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 09:02:27 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 09:04:59 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed kitty.app.png successfully
+[INFO  Tue Jul  9 09:06:05 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Jul  9 09:30:50 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 09:31:05 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Jul  9 09:32:24 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 09:57:39 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Jul  9 17:00:59 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 17:02:06 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 17:07:02 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Jul  9 17:09:50 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Jul  9 17:44:16 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/Projects/learning-Husky/node_modules
+[INFO  Tue Jul  9 17:44:54 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed index.js successfully
+[INFO  Tue Jul  9 17:47:20 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/Projects/learning-Husky/node_modules
+[INFO  Tue Jul  9 17:47:20 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 17:47:20 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 17:47:20 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 17:47:20 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 17:47:20 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Tue Jul  9 17:52:43 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/Projects/learning-Husky/node_modules
+[INFO  Tue Jul  9 17:53:35 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Jul 10 12:42:28 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Jul 10 13:14:11 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Jul 10 13:50:19 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Jul 10 13:50:32 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/smallCase/pb-be-api/node_modules
+[INFO  Wed Jul 10 23:12:27 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/smallCase/pb-be-api/dist
+[INFO  Thu Jul 11 14:32:29 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Thu Jul 11 15:22:14 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Thu Jul 11 17:49:36 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Fri Jul 12 14:39:22 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Fri Jul 12 16:50:17 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat Jul 13 23:18:39 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Sun Jul 14 22:59:40 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun Jul 14 23:00:54 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Jul 15 19:19:30 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Jul 15 19:47:28 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/.aws/sso/cache
+[INFO  Mon Jul 15 19:47:28 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Mon Jul 15 19:47:28 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Mon Jul 15 19:47:31 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/.aws/sso
+[INFO  Tue Jul 16 10:43:13 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Jul 16 10:43:34 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed development_pb-be-subscriptions.development_pb-be-subscriptions.env successfully
+[INFO  Tue Jul 16 10:43:41 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed development_pb-be-subscriptions.development_pb-be-subscriptions successfully
+[INFO  Tue Jul 16 17:11:48 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[ERROR Tue Jul 16 18:29:48 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/smallCase/pb-be-subscriptions :  ENOENT: no such file or directory: /Users/suyashlade/smallCase/pb-be-subscriptions
+[ERROR Tue Jul 16 18:29:49 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/smallCase/pb-be-subscriptions :  ENOENT: no such file or directory: /Users/suyashlade/smallCase/pb-be-subscriptions
+[ERROR Tue Jul 16 18:29:53 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/smallCase/pb-be-subscriptions :  ENOENT: no such file or directory: /Users/suyashlade/smallCase/pb-be-subscriptions
+[ERROR Tue Jul 16 18:30:10 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/smallCase/pb-be-subscriptions :  ENOENT: no such file or directory: /Users/suyashlade/smallCase/pb-be-subscriptions
+[INFO  Tue Jul 16 19:25:57 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Jul 16 19:26:08 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/smallCase/pb-be-subscriptions/node_modules
+[INFO  Sat Jul 20 19:40:33 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat Jul 20 19:40:36 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Sat Jul 20 19:41:18 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat Jul 20 19:51:52 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Sat Jul 20 20:08:58 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun Jul 21 15:27:15 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed typescript-express-starter successfully
+[INFO  Sun Jul 21 15:31:16 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun Jul 21 15:31:21 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Sun Jul 21 16:26:58 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun Jul 21 21:35:05 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun Jul 21 21:36:28 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Mon Jul 22 00:05:01 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Jul 22 00:05:06 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Mon Jul 22 14:14:19 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Jul 24 09:29:28 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Jul 24 12:46:02 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Wed Jul 24 14:36:45 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Jul 24 14:37:13 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/smallCase/pb-be-jobs/.nvim
+[INFO  Fri Jul 26 21:24:37 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Fri Jul 26 21:33:55 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed logger.ts successfully
+[INFO  Sat Jul 27 11:43:34 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed config.ts successfully
+[ERROR Sat Jul 27 11:43:47 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:188: Could not move the files from /Users/suyashlade/blogs/typescript-express-starter/app/utils/config.ts to /Users/suyashlade/blogs/typescript-express-starter/app/utils/config.ts ./config/ : ENOENT: no such file or directory: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config.ts -> /Users/suyashlade/blogs/typescript-express-starter/app/utils/config.ts ./config/
+[INFO  Sat Jul 27 11:44:07 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/blogs/typescript-express-starter/app/utils/config.ts .
+[INFO  Sat Jul 27 11:44:55 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat Jul 27 11:45:01 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/blogs/typescript-express-starter/app/utils/config
+[ERROR Sat Jul 27 11:45:03 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config :  ENOENT: no such file or directory: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config
+[ERROR Sat Jul 27 11:45:03 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config/.. :  ENOENT: no such file or directory: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config/..
+[ERROR Sat Jul 27 11:45:05 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config :  ENOENT: no such file or directory: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config
+[ERROR Sat Jul 27 11:45:05 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config/.. :  ENOENT: no such file or directory: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config/..
+[ERROR Sat Jul 27 11:45:05 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config :  ENOENT: no such file or directory: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config
+[ERROR Sat Jul 27 11:45:05 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config/.. :  ENOENT: no such file or directory: /Users/suyashlade/blogs/typescript-express-starter/app/utils/config/..
+[INFO  Sat Jul 27 11:45:44 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/blogs/typescript-express-starter/config
+[WARN  Sat Jul 27 15:50:15 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:581: /Users/suyashlade/blogs/typescript-express-starter/app/types/express.d.ts  already exists
+[INFO  Sun Jul 28 20:50:24 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[WARN  Sun Jul 28 20:52:45 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:581: /Users/suyashlade/smallCase/pb-be-jobs/.vscode  already exists
+[WARN  Sun Jul 28 20:52:51 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:581: /Users/suyashlade/smallCase/pb-be-jobs/.vscode/  already exists
+[INFO  Thu Aug  1 21:52:38 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed git-ssh-key successfully
+[INFO  Thu Aug  1 21:52:53 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed git-ssh-key.pub successfully
+[INFO  Mon Aug  5 14:28:59 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Aug  5 14:37:40 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Sun Aug 18 17:23:54 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[WARN  Mon Sep  9 14:52:35 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:581: /Users/suyashlade/blogs/kafka-learnin/ram.js  already exists
+[WARN  Mon Sep  9 14:52:42 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:581: /Users/suyashlade/blogs/kafka-learnin/ram.js  already exists
+[INFO  Mon Sep  9 14:52:47 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed tam.js successfully
+[INFO  Fri Sep 13 14:30:37 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 10:13:07 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed dap.lua successfully
+[INFO  Mon Sep 16 11:27:46 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 11:43:27 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 11:44:25 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 11:59:24 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 13:08:20 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 13:15:46 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 13:16:32 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 13:20:09 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 13:30:12 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 13:45:35 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed launch.js successfully
+[INFO  Mon Sep 16 13:45:44 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed launch.json successfully
+[INFO  Mon Sep 16 13:52:19 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:02:28 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:10:26 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:14:16 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:17:48 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:19:08 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:32:00 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:33:59 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:46:03 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 14:50:00 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Mon Sep 16 18:34:52 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Tue Sep 17 12:16:19 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sun Sep 22 16:31:02 2024] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut ~/smallCase/pb-be-api to clipboard
+[INFO  Mon Sep 23 10:53:37 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 15:11:45 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 15:20:06 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 15:33:16 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 15:45:55 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 15:55:59 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 16:20:15 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 16:22:06 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 16:48:01 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[WARN  Wed Sep 25 17:00:03 2024] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:630: The `delete` command can only be used on files and directories
+[WARN  Wed Sep 25 17:00:05 2024] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:630: The `delete` command can only be used on files and directories
+[WARN  Wed Sep 25 17:00:05 2024] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:630: The `delete` command can only be used on files and directories
+[WARN  Wed Sep 25 17:01:08 2024] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:630: The `delete` command can only be used on files and directories
+[INFO  Wed Sep 25 17:30:36 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 17:36:23 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 18:17:27 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 18:27:16 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 18:35:09 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 18:52:17 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 18:53:21 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 18:56:46 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 19:06:22 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 19:07:02 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 19:24:06 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed launch.js successfully
+[INFO  Wed Sep 25 19:24:26 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed launch.json successfully
+[INFO  Wed Sep 25 19:26:07 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 20:05:48 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 20:11:56 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[WARN  Wed Sep 25 20:16:11 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:253: Cannot copy a file/folder to itself
+[INFO  Wed Sep 25 20:16:13 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 22:22:04 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 22:23:46 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 23:19:10 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Wed Sep 25 23:27:56 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Thu Sep 26 09:54:43 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Thu Sep 26 10:05:41 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Thu Sep 26 22:11:25 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Thu Sep 26 23:15:56 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[ERROR Sat Sep 28 11:46:28 2024] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: Error executing lua: ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: Vim:E492: Not an editor command: silent noswapfile nil 40split
+stack traceback:
+	[C]: in function 'nvim_command'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: in function <...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169>
+	[C]: in function 'nvim_win_call'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: in function '_open_window'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:257: in function 'mount'
+	...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:1018: in function 'acquire_window'
+	...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:546: in function 'get_items'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:88: in function 'follow_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:141: in function '_navigate_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:171: in function <...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170>
+	[C]: in function 'pcall'
+	...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:126: in function 'debounce'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170: in function 'navigate'
+	...nvim/lazy/neo-tree.nvim/lua/neo-tree/sources/manager.lua:493: in function 'navigate'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:204: in function 'do_show_or_focus'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:162: in function 'execute'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:170: in function '_command'
+	[string ":lua"]:1: in main chunk
+[ERROR Sat Sep 28 11:46:30 2024] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: Error executing lua: ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: Vim:E492: Not an editor command: silent noswapfile nil 40split
+stack traceback:
+	[C]: in function 'nvim_command'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: in function <...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169>
+	[C]: in function 'nvim_win_call'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: in function '_open_window'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:257: in function 'mount'
+	...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:1018: in function 'acquire_window'
+	...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:546: in function 'get_items'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:88: in function 'follow_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:141: in function '_navigate_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:171: in function <...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170>
+	[C]: in function 'pcall'
+	...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:126: in function 'debounce'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170: in function 'navigate'
+	...nvim/lazy/neo-tree.nvim/lua/neo-tree/sources/manager.lua:493: in function 'navigate'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:204: in function 'do_show_or_focus'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:162: in function 'execute'
+	...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:11: in function <...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:10>
+[ERROR Sat Sep 28 11:46:34 2024] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: Error executing lua: ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: Vim:E492: Not an editor command: silent noswapfile nil 40split
+stack traceback:
+	[C]: in function 'nvim_command'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: in function <...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169>
+	[C]: in function 'nvim_win_call'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: in function '_open_window'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:257: in function 'mount'
+	...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:1018: in function 'acquire_window'
+	...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:546: in function 'get_items'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:88: in function 'follow_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:141: in function '_navigate_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:171: in function <...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170>
+	[C]: in function 'pcall'
+	...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:126: in function 'debounce'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170: in function 'navigate'
+	...nvim/lazy/neo-tree.nvim/lua/neo-tree/sources/manager.lua:493: in function 'navigate'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:204: in function 'do_show_or_focus'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:162: in function 'execute'
+	...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:11: in function <...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:10>
+[ERROR Sat Sep 28 11:46:35 2024] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: Error executing lua: ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: Vim:E492: Not an editor command: silent noswapfile nil 40split
+stack traceback:
+	[C]: in function 'nvim_command'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: in function <...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169>
+	[C]: in function 'nvim_win_call'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: in function '_open_window'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:257: in function 'mount'
+	...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:1018: in function 'acquire_window'
+	...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:546: in function 'get_items'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:88: in function 'follow_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:141: in function '_navigate_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:171: in function <...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170>
+	[C]: in function 'pcall'
+	...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:126: in function 'debounce'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170: in function 'navigate'
+	...nvim/lazy/neo-tree.nvim/lua/neo-tree/sources/manager.lua:493: in function 'navigate'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:204: in function 'do_show_or_focus'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:162: in function 'execute'
+	...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:11: in function <...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:10>
+[ERROR Sat Sep 28 11:46:36 2024] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: Error executing lua: ...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: Vim:E492: Not an editor command: silent noswapfile nil 40split
+stack traceback:
+	[C]: in function 'nvim_command'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:170: in function <...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169>
+	[C]: in function 'nvim_win_call'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:169: in function '_open_window'
+	...e/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:257: in function 'mount'
+	...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:1018: in function 'acquire_window'
+	...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:546: in function 'get_items'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:88: in function 'follow_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:141: in function '_navigate_internal'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:171: in function <...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170>
+	[C]: in function 'pcall'
+	...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:126: in function 'debounce'
+	...y/neo-tree.nvim/lua/neo-tree/sources/filesystem/init.lua:170: in function 'navigate'
+	...nvim/lazy/neo-tree.nvim/lua/neo-tree/sources/manager.lua:493: in function 'navigate'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:204: in function 'do_show_or_focus'
+	...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/command/init.lua:162: in function 'execute'
+	...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:11: in function <...l/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:10>
+[INFO  Sat Sep 28 21:38:51 2024] ...zy/neo-tree/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat Sep 28 21:38:52 2024] ...zy/neo-tree/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Sat Sep 28 21:38:56 2024] ...zy/neo-tree/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat Sep 28 21:39:33 2024] ...-tree/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/.local/share/nvim/nvim/.git
+[ERROR Sat Sep 28 21:39:36 2024] ...neo-tree/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:331: /Users/suyashlade/.local/share/nvim/nvim/.git :  ENOENT: no such file or directory: /Users/suyashlade/.local/share/nvim/nvim/.git
+[INFO  Sat Sep 28 21:40:59 2024] ...zy/neo-tree/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Sat Sep 28 21:41:08 2024] ...-tree/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /Users/suyashlade/.local/share/nvim/nvim/nvim/.git
+[INFO  Sat Sep 28 21:41:08 2024] ...neo-tree/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Sat Sep 28 21:41:08 2024] ...neo-tree/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Sat Sep 28 21:41:26 2024] ...neo-tree/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Sat Sep 28 21:41:27 2024] ...neo-tree/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
